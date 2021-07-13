@@ -38,7 +38,7 @@ along with the line numbers in which they exist.
 - **Error Handling**:
 program checks for the correctness of every command (e.g. number of argu-
 ments).
-it uses the following error messages to reect the reason of not performing
+it uses the following error messages to reflect the reason of not performing
 the command
 - "File not found"
 - "Undefined command"
